@@ -1,6 +1,6 @@
 const Sequelize = require("sequelize");
 
-const connection = new Sequelize("//nomedobanco", "//usuáriodobanco", "//senhadobanco", {
+const connection = new Sequelize("guiapress", "//usuáriodobanco", "//senhadobanco", {
   host: "localhost",
   dialect: "mysql",
   timezone: "-03:00",
