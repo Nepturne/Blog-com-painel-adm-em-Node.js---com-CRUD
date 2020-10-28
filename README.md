@@ -25,7 +25,7 @@ Salve e prossiga.
 5º) Dentro do projeto baixado vá até categories/Category.js e descomente a line 15, isto ira criar a tabela de acordo com o Model Category no banco de dados guiapress
 //Category.sync({ force: true }); para => Category.sync({ force: true });
 
-6º) Após o banco de dados,credenciais alteradas, e as lines em Article.js e Category.js  entre no diretório do projeto baixado pelo cmd ou terminal com o comando cd(change directory), e execute 1 UMA ÚNICA VEZ: 
+6º) Entre no diretório do projeto baixado pelo cmd ou terminal com o comando cd(change directory), e execute 1 UMA ÚNICA VEZ: 
 nodemon index.js [ ENTER ]  | espere conectar ao banco e criar as tabelas | Aperte Control+C (s)  para parar o servidor.
 
 7º) Volte até articles/Article.js e categories/Category.js e comente as lines:
