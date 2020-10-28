@@ -1,13 +1,13 @@
 # Nepturne-Blog-com-painel-administrativo-em-Node.js---com-CRUD
 Um blog feito em Node.js com express - Com painel administrativo , editor de textos , login, cadastro,categorias e artigos de blog.
 <img src="https://raw.githubusercontent.com/Nepturne/images_projects/main/blog.png" />
------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------
 <img src="https://raw.githubusercontent.com/Nepturne/images_projects/main/blog2.png" />
------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------
 
 Libs: bcryptjs ,body-parser,ejs,express,express-session,mysql2,sequelize,slugify.
 
------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------
 -> Para iniciar o projeto:
 
 1º) Efetue o clone para sua máquina. Acesse a raiz do projeto pelo terminal ou cmd e execute o comando: npm install [ ENTER ] ~ Espere as dependencies serem baixadas.
@@ -33,6 +33,7 @@ nodemon index.js [ ENTER ]  | espere conectar ao banco e criar as tabelas | Aper
 e
 //Category.sync({ force: true });
 Para que não crie tabelas a cada reexecução do servidor com o nodemon.
+
 -----------------------------------------------------------------------------------------------------------------------------------
 
 Pronto, seu projeto está configurado.
