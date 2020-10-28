@@ -10,7 +10,7 @@ Libs: bcryptjs ,body-parser,ejs,express,express-session,mysql2,sequelize,slugify
 ----------------------------------------------------------------------------------------------------------------------------------
 -> Para iniciar o projeto:
 
-1º) Efetue o clone para sua máquina. Acesse a raiz do projeto pelo terminal ou cmd e execute o comando: npm install [ ENTER ] ~ Espere as dependencies serem baixadas.
+1º) Baixe o projeto, acesse a raiz pelo terminal ou cmd e execute o comando: npm install [ ENTER ] ~ Espere as dependencies serem baixadas.
 
 2º) Crie um banco de dados no MySQL Workbench ou com a linha de comando conforme sua preferência porém com o nome: guiapress [ Nome do Banco de Dados ].
 
