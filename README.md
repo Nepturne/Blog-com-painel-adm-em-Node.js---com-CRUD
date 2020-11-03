@@ -37,4 +37,4 @@ Para que não crie tabelas a cada reexecução do servidor com o nodemon.
 -----------------------------------------------------------------------------------------------------------------------------------
 
 Pronto, seu projeto está configurado.
-Em seu navegador predileto acesse o app na URL: http:localhost:4000/ para testar. :D
+Em seu navegador acesse o app na URL: http:localhost:4000/ para testar. :D
