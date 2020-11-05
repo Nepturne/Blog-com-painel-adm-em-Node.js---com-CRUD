@@ -1,5 +1,7 @@
 # Nepturne-Blog-com-painel-administrativo-em-Node.js---com-CRUD
-Um blog feito em Node.js com express - Com painel administrativo , editor de textos , login, cadastro,categorias e artigos de blog.
+Um blog feito em Node.js com express - Com Login e Cadastro ,painel administrativo , editor de textos ,cadastro de categorias e artigos para o blog.
+
+
 <img src="https://raw.githubusercontent.com/Nepturne/images_projects/main/blog.png" />
 ----------------------------------------------------------------------------------------------------------------------------------
 <img src="https://raw.githubusercontent.com/Nepturne/images_projects/main/blog2.png" />
